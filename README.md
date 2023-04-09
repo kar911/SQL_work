@@ -30,3 +30,9 @@
 ![alt text](https://github.com/kar911/SQL_work/blob/main/Screenshot%202023-03-06%20131201.png)
 # 11
 ![alt text](https://github.com/kar911/SQL_work/blob/main/Screenshot%202023-03-06%20131125.png)
+# 12
+![alt text](https://github.com/kar911/SQL_work/blob/main/Screenshot%202023-04-09%20113520.png)
+# 13
+![alt text](https://github.com/kar911/SQL_work/blob/main/Screenshot%202023-04-09%20113607.png)
+# 14
+![alt text](https://github.com/kar911/SQL_work/blob/main/Screenshot%202023-04-09%20113903.png)
